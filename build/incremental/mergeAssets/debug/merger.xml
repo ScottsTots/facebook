@@ -2,10 +2,10 @@
 <merger>
 
     <dataSet config="main" >
-        <source path="C:\Users\Aaron\TraceMe\TraceMe\TraceMe\libraries\facebook\src\main\assets" />
+        <source path="/home/nlaz/Development_Local/TraceMe/TraceMe/libraries/facebook/src/main/assets" />
     </dataSet>
     <dataSet config="debug" >
-        <source path="C:\Users\Aaron\TraceMe\TraceMe\TraceMe\libraries\facebook\src\debug\assets" />
+        <source path="/home/nlaz/Development_Local/TraceMe/TraceMe/libraries/facebook/src/debug/assets" />
     </dataSet>
 
 </merger>
